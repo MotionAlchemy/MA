@@ -1,4 +1,4 @@
 ---
-Visual Arts
+title: Visual Arts
 ---
 
